@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "arabic2kansuji"]
+	path = arabic2kansuji
+	url = https://github.com/indenkun/arabic2kansuji
+	shallow = true
+	registered = true
