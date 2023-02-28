@@ -8,3 +8,8 @@
 	url = https://github.com/indenkun/arabic2kansuji
 	shallow = true
 	registered = true
+[submodule "mvnmle"]
+	path = mvnmle
+	url = https://github.com/indenkun/mvnmle
+	shallow = true
+	registered = true

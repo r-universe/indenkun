@@ -2,5 +2,9 @@
   {
     "package": "arabic2kansuji",
     "oncran": true
+  },
+  {
+    "package": "mvnmle",
+    "oncran": true
   }
 ]
