@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mvnmle"]
-	path = mvnmle
-	url = https://github.com/indenkun/mvnmle
-	shallow = true
-	registered = true
 [submodule "arabic2kansuji"]
 	path = arabic2kansuji
 	url = https://github.com/indenkun/arabic2kansuji
+	shallow = true
+	registered = true
+[submodule "mvnmle"]
+	path = mvnmle
+	url = https://github.com/indenkun/mvnmle
 	shallow = true
 	registered = true

@@ -1,10 +1,10 @@
 [
   {
-    "package": "mvnmle",
+    "package": "arabic2kansuji",
     "oncran": true
   },
   {
-    "package": "arabic2kansuji",
+    "package": "mvnmle",
     "oncran": true
   }
 ]
