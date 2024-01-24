@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MissMech"]
+	path = MissMech
+	url = https://github.com/indenkun/missmech
 [submodule "arabic2kansuji"]
 	path = arabic2kansuji
 	url = https://github.com/indenkun/arabic2kansuji
