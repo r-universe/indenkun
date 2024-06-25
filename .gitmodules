@@ -8,6 +8,9 @@
 [submodule "arabic2kansuji"]
 	path = arabic2kansuji
 	url = https://github.com/indenkun/arabic2kansuji
+[submodule "jcalendaR"]
+	path = jcalendaR
+	url = https://github.com/indenkun/jcalendar
 [submodule "mvnmle"]
 	path = mvnmle
 	url = https://github.com/indenkun/mvnmle
