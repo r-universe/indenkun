@@ -14,3 +14,6 @@
 [submodule "mvnmle"]
 	path = mvnmle
 	url = https://github.com/indenkun/mvnmle
+[submodule "readme2vignette"]
+	path = readme2vignette
+	url = https://github.com/indenkun/readme2vignette
