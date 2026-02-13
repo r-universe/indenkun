@@ -11,6 +11,9 @@
 [submodule "jcalendaR"]
 	path = jcalendaR
 	url = https://github.com/indenkun/jcalendar
+[submodule "kvr2"]
+	path = kvr2
+	url = https://github.com/indenkun/kvr2
 [submodule "mvnmle"]
 	path = mvnmle
 	url = https://github.com/indenkun/mvnmle
